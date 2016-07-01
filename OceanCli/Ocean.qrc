@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cloudy_night000.png</file>
+        <file>images/cloudy_night001.png</file>
+        <file>images/cloudy_night002.png</file>
+        <file>images/cloudy_night003.png</file>
+        <file>images/cloudy_night004.png</file>
+        <file>images/cloudy_night005.png</file>
+        <file>images/cloudy_night006.png</file>
+        <file>images/cloudy_night007.png</file>
+        <file>images/cloudy_night008.png</file>
+        <file>images/cloudy_night009.png</file>
+        <file>images/haitun.jpg</file>
+        <file>images/shanghaishuizuguanlogo.jpg</file>
+        <file>images/background2</file>
+        <file>images/shuimu.png</file>
+    </qresource>
+</RCC>
